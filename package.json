@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "//homepage": ".",
-  "homepage": "https://tableau.github.io/extension-filter-bookmarks/#/",
+  "homepage": "http://localhost:8080/#/",
   "dependencies": {
     "@tableau/tableau-ui": "^2.2.1",
     "@types/jest": "^24.0.15",
